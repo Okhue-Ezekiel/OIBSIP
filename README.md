@@ -21,4 +21,4 @@ Exploratory Data Analysis of Superstore sales data to uncover trends in sales, p
 ## Author
 **Okhue Ezekiel** - Aspiring Data Analyst  
 GitHub: [Okhue-Ezekiel](https://github.com/Okhue-Ezekiel)  
-Lagos, Nigeria
+OASIS infobyte Data Analytics internship- Level 1 Task 1
