@@ -12,7 +12,7 @@ Exploratory Data Analysis of Superstore sales data to uncover trends in sales, p
 - West region is most profitable
 
 ## Files
-- superstore_analysis.ipynb
+- superstore_Sales_analysis.ipynb
   
   Oasis infobyte-level 1 Task 1
 
